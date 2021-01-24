@@ -60,6 +60,7 @@
 <hr>
 <p>S</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Swift">Swift</a></li>
+<li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Scala">Scala</a></li>
 <hr>
 <p>T</p>
 <li><a href="https://github.com/BlackIQ/Hello-World/tree/main/Typescript">Typescript</a></li>
