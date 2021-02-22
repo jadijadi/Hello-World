@@ -1,0 +1,10 @@
+import [System] from [mohsen_script.utils];
+
+namespace MohsenScript
+{
+  class HelloMohsen {
+      public static void main(String[] args) {
+          System.mohsen.PrintLine("Hello, Mohsen!"); 
+      }
+  }
+}
